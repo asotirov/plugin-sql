@@ -1,5 +1,5 @@
 {
-  "name": "sql",
+  "name": "plugin-sql",
   "version": "0.0.1",
   "main": "sql.js",
   "dependencies": {
